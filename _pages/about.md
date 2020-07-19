@@ -20,6 +20,6 @@ News
 
 - (01/10/2019) Started my PhD in natural language processing and machine learning at the University of Copenhagen
 
-Recent Publications
+Featured Publications
 ========
 Under construction
