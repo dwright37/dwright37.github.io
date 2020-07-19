@@ -17,14 +17,13 @@ A critical component of automatically combating misinformation is the detection 
 
 [Download paper here](https://arxiv.org/pdf/2003.02736)
 
-Recommended bibtex: @article{wright2020fact,
+Recommended bibtex: 
 
+```
+@article{wright2020fact,
   title={Fact check-worthiness detection as positive unlabelled learning},
-  
   author={Wright, Dustin and Augenstein, Isabelle},
-  
   journal={arXiv preprint arXiv:2003.02736},
-  
   year={2020}
-  
 }
+```
