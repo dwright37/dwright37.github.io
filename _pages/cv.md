@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+**Note that this page is currently under construction :hammer:**
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Copenhagen, 2022 (expected)
+* M.S. in Computer Science, University of California San Diego, 2019
+* B.S. in Computer Engineering, San Diego State University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2019 to present: PhD Student
+  * University of Copenhagen
+  * Natural language processing and machine learning research
+  * Supervisor: [Isabelle Augenstein](https://isabelleaugenstein.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - September 2019: Research Intern
+  * IBM Research Almaden
+  * Research on active learning for biomedical imformation extraction
+  * Supervisors: Kristen L. Beck and Anna Lisa Gentile
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* January 2018 - June 2019: Graduate Research Assistant
+  * UC San Diego Center for Microbiome Innovation
+  * Created state of the art disease name normalization model
+  * Supervisor: Chun-nan Hsu
+  
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Under construction
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Under construction
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Under construction
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
