@@ -11,6 +11,8 @@ redirect_from:
 
 **Note that this page is currently under construction :hammer:**
 
+You can download a PDF version of my CV [here](/files/Curriculum_Vitae.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, University of Copenhagen, 2022 (expected)
