@@ -11,7 +11,7 @@ title                    : "Dustin Wright"
 title_separator          : "-"
 name                     : &name "Dustin Wright"
 description              : &description "PhD Student at the University of Copenhagen"
-url                      : https://dwright37.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dustinbwright.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dwright37/dwright37.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dustin Wright"
   avatar           : "107366372_1333383810198568_975080514487108863_n.jpg"
-  bio              : "PhD student in the <a href='https://copenlu.github.io'>CopeNLU lab</a> at the University of Copenhagen. I study natural language processing."
+  bio              : "PhD student in the <a href='https://copenlu.github.io'>CopeNLU group</a> at the University of Copenhagen. I study natural language processing."
   location         : "Copenhagen"
   employer         : "University of Copenhagen"
   pubmed           : 
