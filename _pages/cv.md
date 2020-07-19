@@ -51,7 +51,7 @@ Publications
   
 Projects
 ======
-  Under construction
+  Under construction :hammer:
   
 Teaching
 ======
