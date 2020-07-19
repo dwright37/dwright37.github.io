@@ -23,5 +23,7 @@ News
 Featured Publications
 ========
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {if post.featured}
+    {% include archive-single.html %}
+  {endif}
 {% endfor %}
