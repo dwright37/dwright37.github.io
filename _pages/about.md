@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Dustin Wright"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
