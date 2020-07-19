@@ -55,6 +55,10 @@ Projects
   
 Teaching
 ======
+  * Fall 2020: Teaching Assistant - Natural Language Processing
+    * University of Copenhagen
+    * Will be TA for NLP course at KU
+
   * Spring 2020: Teaching Assistant - Web Science
     * University of Copenhagen
     * Teaching assistant for web science course at University of Copenhagen. Duties involved designing the course project, moderating labe sessions, and grading the course project
