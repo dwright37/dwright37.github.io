@@ -1,5 +1,6 @@
 ---
 title: "Fact check-worthiness detection as positive unlabelled learning"
+authors: "Dustin Wright and Isabelle Augenstein"
 collection: publications
 permalink: /publication/2020-03-05-fact-checkworthiness-detection
 excerpt: 'We show that when performing the task of claim check-worthiness detection, positive-unlabelled learning helps across multiple domains. Additionally, we highlight key similarities and differences in check-worthiness detection datasets.'
