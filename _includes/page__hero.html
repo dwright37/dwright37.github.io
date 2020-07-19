@@ -36,6 +36,7 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
+      {% if page.authors %}<p>{{page.authors}}</p>{% endif %}
       {% if page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
