@@ -54,15 +54,15 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #f3f6f6 !default;
+$background-color           : #f3f6f6;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #40514e !default;
-$border-color               : mix(#fff, #40514e, 75%) !default;
-$muted-text-color           : #40514e !default;
-$footer-background-color    : #30e3ca !default;
+$text-color                 : #40514e;
+$border-color               : mix(#fff, #40514e, 75%);
+$muted-text-color           : #40514e;
+$footer-background-color    : #30e3ca;
 
-$primary-color              : #11999e !default;
+$primary-color              : #11999e;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
