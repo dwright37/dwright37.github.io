@@ -16,6 +16,7 @@ citation: '@article{badal2019challenges,
   year={2019},
   publisher={BioMed Central}
 }'
+authors: "Varsha Dave Badal, Dustin Wright, Yannis Katsis, Ho-Cheol Kim, Austin D Swafford, Rob Knight, Chun-Nan Hsu"
 ---
 The last few years have seen tremendous growth in human microbiome research, with a particular focus on the links to both mental and physical health and disease. Medical and experimental settings provide initial sources of information about these links, but individual studies produce disconnected pieces of knowledge bounded in context by the perspective of expert researchers reading full-text publications. Building a knowledge base (KB) consolidating these disconnected pieces is an essential first step to democratize and accelerate the process of accessing the collective discoveries of human disease connections to the human microbiome. In this article, we survey the existing tools and development efforts that have been produced to capture portions of the information needed to construct a KB of all known human microbiome-disease associations and highlight the need for additional innovations in natural language processing (NLP), text mining, taxonomic representations, and field-wide vocabulary standardization in human microbiome research. Addressing these challenges will enable the construction of KBs that help identify new insights amenable to experimental validation and potentially clinical decision support.
 
