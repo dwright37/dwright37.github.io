@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Note that this page is currently under construction :hammer:**
-
 You can download a PDF version of my CV [here](/files/Curriculum_Vitae.pdf)
 
 Education
@@ -28,7 +26,7 @@ Work experience
 
 * June 2019 - September 2019: Research Intern
   * IBM Research Almaden (San Jose, CA)
-  * Research on active learning for biomedical imformation extraction
+  * Research on active learning for biomedical information extraction
   * Supervisors: Kristen L. Beck and Anna Lisa Gentile
   
 * January 2018 - June 2019: Graduate Research Assistant
@@ -49,10 +47,6 @@ Publications
 ======
   For a list of my publications see either [here](/publications) or [my scholar page](https://scholar.google.com/citations?hl=en&user=OGk5UnYAAAAJ)
   
-Projects
-======
-  Under construction :hammer:
-  
 Teaching
 ======
   * Fall 2020: Teaching Assistant - Natural Language Processing
@@ -61,7 +55,7 @@ Teaching
 
   * Spring 2020: Teaching Assistant - Web Science
     * University of Copenhagen
-    * Teaching assistant for web science course at University of Copenhagen. Duties involved designing the course project, moderating labe sessions, and grading the course project
+    * Teaching assistant for web science course at University of Copenhagen. Duties involved designing the course project, moderating lab sessions, and grading the course project
     
   * Fall 2017: Teaching Assistant - Principles of Artificial Intelligence:
 Probabilistic Reasoning and Decision-Making
