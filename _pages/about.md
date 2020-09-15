@@ -12,6 +12,8 @@ I'm a first year PhD student at the University of Copenhagen in the [CopeNLU gro
 
 News
 ========
+- (15/09/2020) 2 main conference and 1 Findings paper accepted to EMNLP 2020. [Announcement thread](https://twitter.com/dustin_wright37/status/1305875978405711872?s=20)
+
 - (19/07/2020) New website is now live!
 
 - (08/07/2020) We hosted a series of person-limited meetups at the University of Copenhagen to view the live sessions of [ACL](https://acl2020.org/), with plenty of interesting discussions and good company :smile:
