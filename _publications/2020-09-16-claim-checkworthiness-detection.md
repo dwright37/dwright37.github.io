@@ -27,7 +27,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2020fact,
-  title={{Claim Check-Worthiness Detection as Positive Unlabelled Learning}},
+  title={Claim Check-Worthiness Detection as Positive Unlabelled Learning},
   author={Dustin Wright and Isabelle Augenstein},
   booktitle = {Findings of EMNLP},
   publisher = {Association for Computational Linguistics},
