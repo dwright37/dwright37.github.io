@@ -26,7 +26,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2020transformer,
-  title={\{Transformer Based Multi-Source Domain Adaptation\}},
+  title={{Transformer Based Multi-Source Domain Adaptation}},
   author={Dustin Wright and Isabelle Augenstein},
   booktitle = {Proceedings of EMNLP},
   publisher = {Association for Computational Linguistics},
