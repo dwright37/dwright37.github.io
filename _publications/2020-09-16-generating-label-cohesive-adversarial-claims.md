@@ -24,7 +24,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{atanasova2020generating,
-  title = {{Generating Label Cohesive and Well-Formed Adversarial Claims}},
+  title={Generating Label Cohesive and Well-Formed Adversarial Claims},
   author={Pepa Atanasova and Dustin Wright and Isabelle Augenstein},
   booktitle = {Proceedings of EMNLP},
   publisher = {Association for Computational Linguistics},
