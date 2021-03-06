@@ -3,7 +3,7 @@ title: "Longitudinal Citation Prediction using Temporal Graph Neural Networks"
 authors: "Andreas Nugaard Holm, Barbara Plank, <strong>Dustin Wright</strong> and Isabelle Augenstein"
 collection: publications
 permalink: /publication/2020-12-10-longitudinal-citation-prediction
-excerpt: 'We show present a method and dataset for the novel task of predicting the trajectory of citations a paper will receive over time.'
+excerpt: 'We present a method and dataset for the novel task of predicting the trajectory of citations a paper will receive over time.'
 date: 2020-12-10
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2012.05742.pdf'
