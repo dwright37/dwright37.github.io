@@ -16,6 +16,8 @@ News
 
 - (02/08/2021) One paper published in Findings of ACL
 
+- (01/06/2021) Started an internship at [AI2](https://allenai.org/) with Lucy Wang at Semantic Scholar on scientific claim generation
+
 - (01/03/2021) Gave a talk at ETH Zürich about cite-worthiness detection.
 
 - (15/09/2020) 2 main conference and 1 Findings paper accepted to EMNLP 2020. [Announcement thread](https://twitter.com/dustin_wright37/status/1305875978405711872?s=20)
