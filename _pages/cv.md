@@ -21,8 +21,13 @@ Work experience
 ======
 * October 2019 to present: PhD Student
   * University of Copenhagen (Copenhagen)
-  * Natural language processing and machine learning research
+  * Research on natural langauge processing and machine learning: fact checking, scholarly document processing, and domain adaptation
   * Supervisor: [Isabelle Augenstein](https://isabelleaugenstein.github.io/)
+
+* June 2021 - September 2021: Research Intern
+  * Allen Institute for Artifical Intelligence, Semantic Scholar (Remote)
+  * Research project on generating scientific claims for scientific fact checking
+  * Advisor: Lucy Lu Wang
 
 * June 2019 - September 2019: Research Intern
   * IBM Research Almaden (San Jose, CA)
@@ -32,7 +37,7 @@ Work experience
 * January 2018 - June 2019: Graduate Research Assistant
   * UC San Diego Center for Microbiome Innovation (San Diego, CA)
   * Created state of the art disease name normalization model
-  * Supervisor: Chun-nan Hsu
+  * Advisor: Chun-nan Hsu
   
 * October 2017 - December 2017: Graduate Teaching Assistant
   * UC San Diego (San Diego, CA)
@@ -47,11 +52,26 @@ Publications
 ======
   For a list of my publications see either [here](/publications) or [my scholar page](https://scholar.google.com/citations?hl=en&user=OGk5UnYAAAAJ)
   
+Invited Talks
+======
+
+* "Cite-Worthiness Detection for Improved Scientific Document Understanding" (1/3/2021, ETH Zürich)
+* "NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction" (10/07/2019, [IBM Research](https://www.youtube.com/watch?v=LZnfbRPVoio&ab_channel=IBMResearch))
+
+Press
+=====
+* [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
+* [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
+
 Teaching
 ======
+  * Fall 2021: Teaching Assistant - Natural Language Processing
+    * University of Copenhagen
+    * TA for NLP course at KU; Duties involved running lab sessions, designing the course project, and marking papers
+
   * Fall 2020: Teaching Assistant - Natural Language Processing
     * University of Copenhagen
-    * Will be TA for NLP course at KU
+    * TA for NLP course at KU; Duties involved running lab sessions, designing the course project, and marking papers
 
   * Spring 2020: Teaching Assistant - Web Science
     * University of Copenhagen
