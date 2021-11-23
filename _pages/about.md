@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student at the University of Copenhagen in the [CopeNLU group](https://copenlu.github.io/) studying natural language processing and machine learning. Specifically, my research focuses on automated fact checking, scientific language understanding, and domain adaptation. Before joining [CopeNLU](https://copenlu.github.io/) I was a research intern at IBM Research in Almaden, and received my master's degree from University of California, San Diego for work on disease name normalization, which won a [best application paper award at AKBC 2019](https://www.akbc.ws/2019/awards/). Outside of NLP I climb rocks and play dungeons and dragons :dragon_face: and dance games :arrow_left::arrow_down::arrow_up::arrow_right:.
+I'm a third year PhD student at the University of Copenhagen in the [CopeNLU group](https://copenlu.github.io/) studying natural language processing and machine learning. Specifically, my research focuses on automated fact checking, scientific language understanding, and domain adaptation. Before joining [CopeNLU](https://copenlu.github.io/) I was a research intern at IBM Research in Almaden, and received my master's degree from University of California, San Diego for work on disease name normalization, which won a [best application paper award at AKBC 2019](https://www.akbc.ws/2019/awards/). Outside of NLP I climb rocks and play dungeons and dragons :dragon_face: and dance games :arrow_left::arrow_down::arrow_up::arrow_right:.
 
 News
 ========
