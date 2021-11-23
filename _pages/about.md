@@ -30,6 +30,11 @@ News
 
 - (01/10/2019) Started my PhD in natural language processing and machine learning at the University of Copenhagen
 
+Press
+=====
+- [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
+- [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
+
 Featured Publications
 ========
 {% for post in site.publications reversed %}
