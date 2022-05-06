@@ -54,7 +54,8 @@ Publications
   
 Invited Talks
 ======
-
+* "Automatically Ensuring Information Quality in Scientific Writing" (15/03/2022, Elsevier)
+* "Semi-Supervised Exaggeration Detection in Science" (28/01/2022, University of Amsterdam)
 * "Cite-Worthiness Detection for Improved Scientific Document Understanding" (1/3/2021, ETH Zürich)
 * "NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction" (10/07/2019, [IBM Research](https://www.youtube.com/watch?v=LZnfbRPVoio&ab_channel=IBMResearch))
 
