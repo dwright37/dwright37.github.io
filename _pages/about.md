@@ -12,6 +12,12 @@ I'm a third year PhD student at the University of Copenhagen in the [CopeNLU gro
 
 News
 ========
+- (15/03/2022) Gave an invited talk about science communication and misinformation detection at Elsevier
+
+- (24/02/2022) One paper accepted to ACL on generating scientific claims for zero-shot scientific fact checking! This work was done during my internship at AI2
+
+- (21/01/2022) Gave an invited talk about exaggeration detection in science for Search Engines Amsterdam
+
 - (01/09/2021) Our paper on few shot learning for exaggeration detection in science is accepted to EMNLP 2021
 
 - (02/08/2021) One paper published in Findings of ACL
@@ -32,6 +38,7 @@ News
 
 Press
 =====
+- [Interview on the NVIDIA AI podcast[ (https://open.spotify.com/episode/16YohQJTOo0BDS9WtPRaOC?si=214e837b07dd414b)
 - [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
 - [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
 
