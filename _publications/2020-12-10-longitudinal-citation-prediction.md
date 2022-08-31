@@ -5,13 +5,13 @@ collection: publications
 permalink: /publication/2020-12-10-longitudinal-citation-prediction
 excerpt: 'We present a method and dataset for the novel task of predicting the trajectory of citations a paper will receive over time.'
 date: 2020-12-10
-venue: 'arXiv'
+venue: 'AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)'
 paperurl: 'https://arxiv.org/pdf/2012.05742.pdf'
-bibtex: '@article{holm2020longitudinal,
-  title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
-  author={Holm, Andreas Nugaard and Plank, Barbara and Wright, Dustin and Augenstein, Isabelle},
-  journal={arXiv preprint arXiv:2012.05742},
-  year={2020}
+bibtex: '@inproceedings{holm2022longitudinal,
+title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
+author={Andreas Nugaard Holm and Barbara Plank and Dustin Wright and Isabelle Augenstein},
+year={2022},
+proceedings={AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)}
 }'
 featured: false
 image: '/images/claim_check_worthiness.png'
@@ -24,10 +24,10 @@ Citation count prediction is the task of predicting the number of citations a pa
 Recommended bibtex: 
 
 ```
-@article{holm2020longitudinal,
-  title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
-  author={Holm, Andreas Nugaard and Plank, Barbara and Wright, Dustin and Augenstein, Isabelle},
-  journal={arXiv preprint arXiv:2012.05742},
-  year={2020}
+@inproceedings{holm2022longitudinal,
+title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
+author={Andreas Nugaard Holm and Barbara Plank and Dustin Wright and Isabelle Augenstein},
+year={2022},
+proceedings={AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)}
 }
 ```
