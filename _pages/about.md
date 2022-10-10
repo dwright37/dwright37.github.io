@@ -12,6 +12,8 @@ I'm a third year PhD student at the University of Copenhagen in the [CopeNLU gro
 
 News
 ========
+- (06/10/2022) "Modelling Information Change in Science Communication with Semantically Matched Paraphrases" is accepted to EMNLP 2022
+
 - (15/03/2022) Gave an invited talk about science communication and misinformation detection at Elsevier
 
 - (24/02/2022) One paper accepted to ACL on generating scientific claims for zero-shot scientific fact checking! This work was done during my internship at AI2
