@@ -4,7 +4,7 @@ authors: "Andreas Nugaard Holm, Barbara Plank, <strong>Dustin Wright</strong> an
 collection: publications
 permalink: /publication/2020-12-10-longitudinal-citation-prediction
 excerpt: 'We present a method and dataset for the novel task of predicting the trajectory of citations a paper will receive over time.'
-date: 2022-28-02
+date: 2022-02-28
 venue: 'AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)'
 paperurl: 'https://arxiv.org/pdf/2012.05742.pdf'
 bibtex: '@inproceedings{holm2022longitudinal,
