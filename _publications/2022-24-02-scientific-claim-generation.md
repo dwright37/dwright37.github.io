@@ -4,7 +4,7 @@ authors: "<strong>Dustin Wright</strong>, David Wadden, Kyle Lo, Bailey Kuehl, A
 collection: publications
 permalink: /publication/2022-24-02-scientific-claim-generation
 excerpt: 'We develop methods for generating and evaluating atomic, valid scientific claims from citation texts.'
-date: 2022-02-24
+date: 2022-06-28
 venue: 'ACL'
 paperurl: 'https://arxiv.org/pdf/2203.12990.pdf'
 bibtex: '@inproceedings{wright2022generating,
