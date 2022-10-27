@@ -21,7 +21,7 @@ Whether the media faithfully communicate scientific information has long been a 
 
 [Download paper here](https://arxiv.org/pdf/2203.12990.pdf)
 
-[# Code, models, and data
+## Code, models, and data
 
 We've released all of the code, models, and data for the project to help with further research on NLP for understanding science communication. The code can be found [here](https://github.com/copenlu/scientific-information-change), the sentence-transformers model [here](https://huggingface.co/copenlu/spiced), and the dataset [here](https://huggingface.co/datasets/copenlu/spiced). We've additionally released a lightweight python package [scientific-information-change](https://pypi.org/project/scientific-information-change/), which can be used to measure the information matching score (IMS) between scientific sentences. You can download the package as follows:
 
