@@ -1,6 +1,6 @@
 ---
 title: "Modeling Information Change in Science Communication with Semantically Matched Paraphrases"
-authors: "<strong>Dustin Wright</strong>\*, Jiaxin Pei\*, David Jurgens, and Isabelle Augenstein"
+authors: "<strong>Dustin Wright</strong>*, Jiaxin Pei*, David Jurgens, and Isabelle Augenstein"
 collection: publications
 permalink: /publication/2022-07-12-modeling-information-change
 excerpt: 'We develop a new dataset and models for measuring information change in science communication, providing improved performance on scientific evidence retrieval and several large scale analyses of science communication.'
