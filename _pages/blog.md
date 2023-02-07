@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can find my writing at https://dustinwright.substack.com/
+You can find my writing at [https://dustinwright.substack.com/](https://dustinwright.substack.com/)
 
 Posts
 =========
