@@ -12,4 +12,5 @@ You can find my writing at [https://dustinwright.substack.com/](https://dustinwr
 
 Posts
 =========
+[The Good and Bad News About Beliefs](https://dustinwright.substack.com/p/the-good-and-bad-news-about-beliefs) (February 21, 2023)
 [Automated Skeptics](https://dustinwright.substack.com/p/automated-skeptics) (February 7, 2023)
