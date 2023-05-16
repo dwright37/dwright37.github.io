@@ -12,6 +12,14 @@ You can find my writing at [https://dustinwright.substack.com/](https://dustinwr
 
 Posts
 =========
+[Some Introductory Notes on Misinformation](https://dustinwright.substack.com/p/notes-on-misinformation) (May 16, 2023)
+
+[Beyond Environmental Sustainability in Machine Learning](https://dustinwright.substack.com/p/beyond-environmental-sustainability) (May 2, 2023)
+
+[It's Easy Being Green in Machine Learning](https://dustinwright.substack.com/p/its-easy-being-green-in-machine-learning) (April 18, 2023)
+
+[Trends in the Compute Requirements of Deep Learning](https://dustinwright.substack.com/p/trends-in-the-compute-requirements) (April 4, 2023)
+
 [The Necessary Rabbit Hole of Tracking Carbon Emissions in Machine Learning](https://dustinwright.substack.com/p/the-necessary-rabbit-hole-of-tracking) (March 21, 2023)
 
 [Distortions in Science Communication](https://dustinwright.substack.com/p/distortions-in-science-communication) (March 7, 2023)
