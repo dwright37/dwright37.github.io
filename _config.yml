@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - p
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -188,10 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  p:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
