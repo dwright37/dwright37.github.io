@@ -12,6 +12,8 @@ You can find my writing at [https://dustinwright.substack.com/](https://dustinwr
 
 Posts
 =========
+[Rebounds, rebounds, rebounds](https://dustinwright.substack.com/p/rebounds-rebounds-rebounds) (May 30, 2023)
+
 [Some Introductory Notes on Misinformation](https://dustinwright.substack.com/p/notes-on-misinformation) (May 16, 2023)
 
 [Beyond Environmental Sustainability in Machine Learning](https://dustinwright.substack.com/p/beyond-environmental-sustainability) (May 2, 2023)
