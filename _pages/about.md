@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoc at the University of Copenhagen researching sustainable machine learning and fact checking of science. Previously I was a PhD Fellow in the [CopeNLU group](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. Outside of NLP I climb rocks and play dungeons and dragons :dragon_face: and dance games :arrow_left::arrow_down::arrow_up::arrow_right:.
+I'm a Postdoc at the University of Copenhagen researching sustainable machine learning and fact checking of science. Previously I was a PhD Fellow in the [CopeNLU group](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing dungeons and dragons :dragon_face: and rhythm games :arrow_left::arrow_down::arrow_up::arrow_right:.
 
 News
 ========
