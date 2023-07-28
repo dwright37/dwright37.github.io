@@ -13,12 +13,16 @@ You can download a PDF version of my CV [here](/files/Curriculum_Vitae.pdf)
 
 Education
 ======
-* Ph.D in Computer Science, University of Copenhagen, 2022 (expected)
+* Ph.D in Computer Science, University of Copenhagen, 2022
 * M.S. in Computer Science, University of California San Diego, 2019
 * B.S. in Computer Engineering, San Diego State University, 2014
 
 Work experience
 ======
+* Postdoctoral Researcher
+  * University of Copenhagen (Copenhagen)
+  * My current projects are two-fold: developing more resources and methods for analyzing science communication, and developing methods for sustainable machine learning.
+
 * October 2019 to present: PhD Student
   * University of Copenhagen (Copenhagen)
   * Research on natural langauge processing and machine learning: fact checking, scholarly document processing, and domain adaptation
