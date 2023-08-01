@@ -18,7 +18,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{koh2018rethinking,
-  title={Rethinking Recurrent Latent Variable Model for Music Composition},
+  title={ {Rethinking Recurrent Latent Variable Model for Music Composition} },
   author={Koh, Eunjeong Stella and Dubnov, Shlomo and Wright, Dustin},
   booktitle={2018 IEEE 20th International Workshop on Multimedia Signal Processing (MMSP)},
   pages={1--6},
