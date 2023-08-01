@@ -1,6 +1,6 @@
 ---
 title: "Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization"
-authors: "<strong>Dustin Wright</strong>, and Isabelle Augenstein"
+authors: "<strong>Dustin Wright</strong> and Isabelle Augenstein"
 collection: publications
 permalink: /publication/2023-23-05-multi-view-knowledge-distillation
 excerpt: 'We perform an empirical analysis and propose new methods for aggregating labels from crowd annotations'
