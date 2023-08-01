@@ -8,7 +8,7 @@ date: 2020-09-16
 venue: 'Findings of EMNLP'
 paperurl: 'https://arxiv.org/pdf/2003.02736'
 bibtex: '@inproceedings{wright2020fact,
-title={{Claim Check-Worthiness Detection as Positive Unlabelled Learning}},
+title={ {Claim Check-Worthiness Detection as Positive Unlabelled Learning} },
 author={Dustin Wright and Isabelle Augenstein},
 booktitle = {Findings of EMNLP},
 publisher = {Association for Computational Linguistics},
@@ -27,7 +27,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2020fact,
-  title={Claim Check-Worthiness Detection as Positive Unlabelled Learning},
+  title={ {Claim Check-Worthiness Detection as Positive Unlabelled Learning} },
   author={Dustin Wright and Isabelle Augenstein},
   booktitle = {Findings of EMNLP},
   publisher = {Association for Computational Linguistics},
