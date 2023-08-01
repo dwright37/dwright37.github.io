@@ -7,7 +7,7 @@ excerpt: 'We propose a novel method using universal adversarial triggers and GPT
 date: 2020-09-16
 venue: 'EMNLP'
 bibtex: '@inproceedings{atanasova2020generating,
-title={{Generating Label Cohesive and Well-Formed Adversarial Claims}},
+title={ {Generating Label Cohesive and Well-Formed Adversarial Claims} },
 author={Pepa Atanasova and Dustin Wright and Isabelle Augenstein},
 booktitle = {Proceedings of EMNLP},
 publisher = {Association for Computational Linguistics},
@@ -26,7 +26,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{atanasova2020generating,
-  title={Generating Label Cohesive and Well-Formed Adversarial Claims},
+  title={ {Generating Label Cohesive and Well-Formed Adversarial Claims} },
   author={Pepa Atanasova and Dustin Wright and Isabelle Augenstein},
   booktitle = {Proceedings of EMNLP},
   publisher = {Association for Computational Linguistics},
