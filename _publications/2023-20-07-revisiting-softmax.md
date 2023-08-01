@@ -9,7 +9,7 @@ venue: 'Information'
 paperurl: 'https://www.mdpi.com/2078-2489/14/7/420'
 bibtex: '@article{holm2023revisiting,
 author = {Holm, Andreas Nugaard and Wright, Dustin and Augenstein, Isabelle},
-title = {{Revisiting Softmax for Uncertainty Approximation in Text Classification}},
+title = { {Revisiting Softmax for Uncertainty Approximation in Text Classification} },
 journal = {Information},
 volume = {14},
 year = {2023},
@@ -24,14 +24,12 @@ Uncertainty approximation in text classification is an important area with appli
 
 [Download paper here](https://www.mdpi.com/2078-2489/14/7/420)
 
-#[View code](https://github.com/allenai/scientific-claim-generation)
-
 Recommended bibtex: 
 
 ```
 @article{holm2023revisiting,
 author = {Holm, Andreas Nugaard and Wright, Dustin and Augenstein, Isabelle},
-title = {{Revisiting Softmax for Uncertainty Approximation in Text Classification}},
+title = { {Revisiting Softmax for Uncertainty Approximation in Text Classification} },
 journal = {Information},
 volume = {14},
 year = {2023},
