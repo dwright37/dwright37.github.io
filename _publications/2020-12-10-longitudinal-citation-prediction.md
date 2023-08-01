@@ -8,7 +8,7 @@ date: 2022-02-28
 venue: 'AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)'
 paperurl: 'https://arxiv.org/pdf/2012.05742.pdf'
 bibtex: '@inproceedings{holm2022longitudinal,
-title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
+title={ {Longitudinal Citation Prediction using Temporal Graph Neural Networks} },
 author={Andreas Nugaard Holm and Barbara Plank and Dustin Wright and Isabelle Augenstein},
 year={2022},
 proceedings={AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)}
@@ -24,7 +24,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{holm2022longitudinal,
-title={{Longitudinal Citation Prediction using Temporal Graph Neural Networks}},
+title={ {Longitudinal Citation Prediction using Temporal Graph Neural Networks} },
 author={Andreas Nugaard Holm and Barbara Plank and Dustin Wright and Isabelle Augenstein},
 year={2022},
 proceedings={AAAI 2022 Workshop on Scientific Document Understanding (SDU 2022)}
