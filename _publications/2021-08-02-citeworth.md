@@ -8,7 +8,7 @@ date: 2021-08-03
 venue: 'Findings of ACL'
 paperurl: 'https://arxiv.org/pdf/2105.10912.pdf'
 bibtex: '@inproceedings{wright2021citeworth,
-title={{CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding}},
+title={ {CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding} },
 author={Dustin Wright and Isabelle Augenstein},
 booktitle = {Findings of ACL-IJCNLP},
 publisher = {Association for Computational Linguistics},
@@ -26,7 +26,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2021citeworth,
-    title={{CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding}},
+    title={ {CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding} },
     author={Dustin Wright and Isabelle Augenstein},
     booktitle = {Findings of ACL-IJCNLP},
     publisher = {Association for Computational Linguistics},
