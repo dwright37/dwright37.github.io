@@ -8,7 +8,7 @@ date: 2022-12-07
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/pdf/2210.13001.pdf'
 bibtex: '@article{wright2022modeling,
-      title={{Modeling Information Change in Science Communication with Semantically Matched Paraphrases}},
+      title={ {Modeling Information Change in Science Communication with Semantically Matched Paraphrases} },
       author={Wright, Dustin and Jiaxin, Pei and Jurgens, David and Augenstein, Isabelle},
       year={2022},
       booktitle = {Proceedings of EMNLP},
@@ -35,7 +35,7 @@ Recommended bibtex:
 
 ```
 @article{wright2022modeling,
-      title={Modeling Information Change in Science Communication with Semantically Matched Paraphrases},
+      title={ {Modeling Information Change in Science Communication with Semantically Matched Paraphrases} },
       author={Wright, Dustin and Jiaxin, Pei and Jurgens, David and Augenstein, Isabelle},
       year={2022},
       booktitle = {Proceedings of EMNLP},
