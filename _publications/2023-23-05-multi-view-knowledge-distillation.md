@@ -10,7 +10,7 @@ paperurl: 'https://arxiv.org/pdf/2212.09409.pdf'
 bibtex: '@inproceedings{wright2022multi,
 title={{Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization}},
 author={Wright, Dustin and Augenstein, Isabelle},
-booktitle = {arXiv},
+journal = {arXiv preprint arXiv:2212.09409},
 year = 2023
 }'
 ---
@@ -26,7 +26,7 @@ Recommended bibtex:
 @inproceedings{wright2022multi,
 title={{Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization}},
 author={Wright, Dustin and Augenstein, Isabelle},
-booktitle = {arXiv},
+journal = {arXiv preprint arXiv:2212.09409},
 year = 2023
 }
 ```
