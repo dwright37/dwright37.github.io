@@ -8,7 +8,7 @@ date: 2021-11-07
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/pdf/2108.13493.pdf'
 bibtex: '@inproceedings{wright2021exaggeration,
-title={{Semi-Supervised Exaggeration Detection of Health Science Press Releases}},
+title={ {Semi-Supervised Exaggeration Detection of Health Science Press Releases} },
 author={Dustin Wright and Isabelle Augenstein},
 booktitle = {Proceedings of EMNLP},
 publisher = {Association for Computational Linguistics},
@@ -27,7 +27,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2021exaggeration,
-    title={{Semi-Supervised Exaggeration Detection of Health Science Press Releases}},
+    title={ {Semi-Supervised Exaggeration Detection of Health Science Press Releases} },
     author={Dustin Wright and Isabelle Augenstein},
     booktitle = {Proceedings of EMNLP},
     publisher = {Association for Computational Linguistics},
