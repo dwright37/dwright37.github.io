@@ -8,7 +8,7 @@ date: 2022-06-28
 venue: 'ACL'
 paperurl: 'https://arxiv.org/pdf/2203.12990.pdf'
 bibtex: '@inproceedings{wright2022generating,
-title={{Generating Scientific Claims for Automatic Scientific Fact Checking}},
+title={ {Generating Scientific Claims for Automatic Scientific Fact Checking} },
 author={Wright, Dustin and Wadden, David and Lo, Kyle and Kuehl, Bailey and Augenstein, Isabelle and Wang, Lucy Lu },
 booktitle = {Proceedings of ACL},
 publisher = {Association for Computational Linguistics},
@@ -26,7 +26,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2022generating,
-  title={{Generating Scientific Claims for Automatic Scientific Fact Checking}},
+  title={ {Generating Scientific Claims for Automatic Scientific Fact Checking} },
   author={Wright, Dustin and Wadden, David and Lo, Kyle and Kuehl, Bailey and Augenstein, Isabelle and Wang, Lucy Lu },
   booktitle = {Proceedings of ACL},
   publisher = {Association for Computational Linguistics},
