@@ -16,7 +16,7 @@ Recommended bibtex:
 
 ```
 @article{badal2019challenges,
-  title={Challenges in the construction of knowledge bases for human microbiome-disease associations},
+  title={ {Challenges in the construction of knowledge bases for human microbiome-disease associations} },
   author={Badal, Varsha Dave and Wright, Dustin and Katsis, Yannis and Kim, Ho-Cheol and Swafford, Austin D and Knight, Rob and Hsu, Chun-Nan},
   journal={Microbiome},
   volume={7},
