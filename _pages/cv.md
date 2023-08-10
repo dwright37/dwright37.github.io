@@ -65,7 +65,7 @@ Publications
   
 Invited Talks
 ======
-* "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" (20/07/2023, International Conference of Computational Social Science (IC2S2), Honorable mention (top 0.6\% submission))
+* "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" (20/07/2023, International Conference of Computational Social Science (IC2S2), Honorable mention (top 0.6% submission))
 * "Fighting Misinformation in Science Communication with NLP" (02/06/2023, University of Cambridge)
 * "Automatically Ensuring Information Quality in Scientific Writing" (15/03/2022, Elsevier)
 * "Semi-Supervised Exaggeration Detection in Science" (28/01/2022, University of Amsterdam)
