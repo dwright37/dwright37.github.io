@@ -52,21 +52,44 @@ Probabilistic Reasoning and Decision-Making
   * BAE Systems Inc. (San Diego, CA)
   * Front-end web developer
 
+Grants and Honors
+=====
+*  Honorable mention (top 0.6% submission), International Conference on Computational Social Science (IC2S2) 2023
+*  Danish Data Science Academy Postdoc Fellowship, 2023
+*  Marie Sklodowska-Curie PhD fellowship, 2019
+*  Best application paper, AKBC 2019
+
 Publications
 ======
   For a list of my publications see either [here](/publications) or [my scholar page](https://scholar.google.com/citations?hl=en&user=OGk5UnYAAAAJ)
   
 Invited Talks
 ======
+* "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" (20/07/2023, International Conference of Computational Social Science (IC2S2), Honorable mention (top 0.6\% submission))
+* "Fighting Misinformation in Science Communication with NLP" (02/06/2023, University of Cambridge)
 * "Automatically Ensuring Information Quality in Scientific Writing" (15/03/2022, Elsevier)
 * "Semi-Supervised Exaggeration Detection in Science" (28/01/2022, University of Amsterdam)
 * "Cite-Worthiness Detection for Improved Scientific Document Understanding" (1/3/2021, ETH Zürich)
 * "NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction" (10/07/2019, [IBM Research](https://www.youtube.com/watch?v=LZnfbRPVoio&ab_channel=IBMResearch))
 
+Service
+=====
+* Area Chair, Empirical Methods in Natural Language Processing (EMNLP) 2023
+* Program Committee, BioNLP Workshop (ACL) 2023
+* Program Committee, ACL 2022
+* Publication Chair, Conference for Truth and Trust Online 2021
+* Program Committee, Empirical Methods in Natural Language Processing (EMNLP) 2021
+
 Press
 =====
 * [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
 * [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
+
+Supervision
+=====
+* Compression Methods for Efficient Vision Transformers. Bachelor's project advisor, UCPH, Feb 2023, Olga Henrietta Ptacek
+* Uncertainty and Exaggerations of Scientific Findings in Social Media. Master's project advisor, UCPH, June 2022, Jimmie Jin, Asger Thorleif Knudsen, Sylvester Leonhard Gorm Errebo Lee
+* Stance Detection of Attitudes Toward Climate Change on Social Media. Bachelor's project advisor, UCPH, June 2020, Jimmie Jin, Asger Thorleif Knudsen, Sylvester Leonhard Gorm Errebo Lee
 
 Teaching
 ======
