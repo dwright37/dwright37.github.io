@@ -18,6 +18,8 @@ News
 
 - (05/05/2024) Started a research stay in the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan with David Jurgens, working on long-context summarization
 
+- (20/04/2024) Our paper [Understanding Fine-grained Distortions in Reports of Scientific Findings](https://arxiv.org/abs/2402.12431) was accepted to ACL findings!
+
 - (15/01/2024) I've started my two year [Danish Data Science Academy](https://ddsa.dk/) postdoctoral fellowship
 
 - (20/07/2023) "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" received an honorable mention (top 5 submission) at the International Conference on Computational Social Science!
