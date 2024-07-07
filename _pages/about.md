@@ -26,7 +26,7 @@ News
 
 - (25/06/2023) I was awarded a two year postdoc fellowship from the [Danish Data Science Academy](https://ddsa.dk/) to work on NLP for science communication!
 
-- (01/02/2023) Started a postdoc at University of Copenhagen on sustainable machine learning
+- (01/02/2023) Started a postdoc at University of Copenhagen in the [Saints Lab](https://github.com/saintslab) working on sustainable machine learning
 
 - (06/10/2022) "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" is accepted to EMNLP 2022!
 
