@@ -14,9 +14,15 @@ Previously I was a postdoc in the [Saints Lab](https://github.com/saintslab) wor
 
 News
 ========
+- (03/07/2024) Our paper [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065) was accepted to appear in [Communications of the ACM](https://cacm.acm.org/)!
+
+- (05/05/2024) Started a research stay in the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan with David Jurgens, working on long-context summarization
+
+- (15/01/2024) I've started my two year [Danish Data Science Academy](https://ddsa.dk/) postdoctoral fellowship
+
 - (20/07/2023) "Modeling Information Change in Science Communication with Semantically Matched Paraphrases" received an honorable mention (top 5 submission) at the International Conference on Computational Social Science!
 
-- (25/06/2023) I was awarded a two-year postdoc fellowship from the [Danish Data Science Academy](https://ddsa.dk/) to work on NLP for science communication!
+- (25/06/2023) I was awarded a two year postdoc fellowship from the [Danish Data Science Academy](https://ddsa.dk/) to work on NLP for science communication!
 
 - (01/02/2023) Started a postdoc at University of Copenhagen on sustainable machine learning
 
