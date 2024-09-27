@@ -5,15 +5,13 @@ collection: publications
 permalink: /publication/2024-07-02-revealing-fine-grained-values
 excerpt: 'We generate 156,000 responses to 62 political propositions across 6 language models and demonstrate systematic biases in their stances and plain-text responses.'
 date: 2024-06-27
-venue: 'arXiv'
+venue: 'EMNLP Findings'
 paperurl: '[https://arxiv.org/abs/2406.19238](https://arxiv.org/abs/2406.19238)'
-bibtex: '@misc{wright2024revealing,
+bibtex: '@inproceedings{wright2024revealing,
       title={Revealing Fine-Grained Values and Opinions in Large Language Models},
       author={Wright, Dustin and Arora, Arnav and Borenstein, Nadav and Yadav, Srishti and Belongie, Serge and Augenstein, Isabelle},
       year={2024},
-      eprint={2406.19238},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle = {Empirical Methods in Natural Language Processing (EMNLP) Findings}
 }'
 featured: true
 ---
@@ -24,12 +22,10 @@ Uncovering latent values and opinions in large language models (LLMs) can help i
 Recommended bibtex: 
 
 ```
-@misc{wright2024revealing,
+@inproceedings{wright2024revealing,
       title={Revealing Fine-Grained Values and Opinions in Large Language Models},
       author={Wright, Dustin and Arora, Arnav and Borenstein, Nadav and Yadav, Srishti and Belongie, Serge and Augenstein, Isabelle},
       year={2024},
-      eprint={2406.19238},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle = {Empirical Methods in Natural Language Processing (EMNLP) Findings}
 }
 ```
