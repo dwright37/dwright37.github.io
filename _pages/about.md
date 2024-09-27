@@ -14,6 +14,21 @@ I'm currently a Danish Data Science Academy postdoctoral fellow visiting the [Bl
 
 Previously I was a postdoc in the [Saints Lab](https://github.com/saintslab) working on sustainable AI, and did my PhD with [CopeNLU](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing table top role-playing games and rhythm games.
 
+Featured Publications
+========
+{% for post in site.publications reversed %}
+  {% if post.featured %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Press
+=====
+- [Feature on Montreal AI Ethics Blog](https://montrealethics.ai/efficiency-is-not-enough-a-critical-perspective-of-environmentally-sustainable-ai/)
+- [Interview on the NVIDIA AI podcast](https://open.spotify.com/episode/16YohQJTOo0BDS9WtPRaOC?si=214e837b07dd414b)
+- [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
+- [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
+
 News
 ========
 - (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
@@ -59,18 +74,3 @@ News
 - (05/03/2020) Preprint of our work on claim check-worthiness detection (w/ [Isabelle Augenstein](https://isabelleaugenstein.github.io/)) is now available: [https://arxiv.org/pdf/2003.02736.pdf](https://arxiv.org/pdf/2003.02736.pdf)
 
 - (01/10/2019) Started my PhD in natural language processing and machine learning at the University of Copenhagen
-
-Press
-=====
-- [Feature on Montreal AI Ethics Blog](https://montrealethics.ai/efficiency-is-not-enough-a-critical-perspective-of-environmentally-sustainable-ai/)
-- [Interview on the NVIDIA AI podcast](https://open.spotify.com/episode/16YohQJTOo0BDS9WtPRaOC?si=214e837b07dd414b)
-- [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
-- [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
-
-Featured Publications
-========
-{% for post in site.publications reversed %}
-  {% if post.featured %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
