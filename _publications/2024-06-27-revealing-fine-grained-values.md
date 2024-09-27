@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-07-02-revealing-fine-grained-values
 excerpt: 'We generate 156,000 responses to 62 political propositions across 6 language models and demonstrate systematic biases in their stances and plain-text responses.'
 date: 2024-06-27
-venue: 'EMNLP Findings 2024'
+venue: 'EMNLP Findings'
 paperurl: '[https://arxiv.org/abs/2406.19238](https://arxiv.org/abs/2406.19238)'
 bibtex: '@inproceedings{wright2024revealing,
       title={Revealing Fine-Grained Values and Opinions in Large Language Models},
