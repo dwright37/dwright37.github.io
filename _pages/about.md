@@ -16,6 +16,10 @@ Previously I was a postdoc in the [Saints Lab](https://github.com/saintslab) wor
 
 News
 ========
+- (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
+
+- (20/09/2024) Our paper [Revealing Fine-Grained Values and Opinions in Large Language Models](https://dustinbwright.com/publication/2024-07-02-revealing-fine-grained-values) was accepted to EMNLP Findings!
+
 - (03/07/2024) Our paper [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065) was accepted to [Communications of the ACM](https://cacm.acm.org/)!
 
 - (05/05/2024) Started a research stay in the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan with David Jurgens, working on long-context summarization
