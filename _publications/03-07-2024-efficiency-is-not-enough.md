@@ -6,7 +6,7 @@ permalink: /publication/03-07-2024-efficiency-is-not-enough
 excerpt: 'We present a perspective on why efficiency will not make AI sustainable and propose systems thinking as a paradigm for the AI community to adopt.'
 date: 2024-07-03
 venue: 'To appear in Communications of the ACM'
-paperurl: '[https://arxiv.org/abs/2309.02065](https://arxiv.org/abs/2309.02065)'
+paperurl: 'https://arxiv.org/abs/2309.02065'
 bibtex: '@article{wright2024efficiency,
       title={ {Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI} },
       author={Wright, Dustin and Igel, Christian and Samuel, Gabrielle and Selvan, Raghavendra},
