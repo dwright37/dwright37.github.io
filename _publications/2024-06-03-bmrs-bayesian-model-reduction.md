@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-06-03-bmrs-bayesian-model-reduction
 excerpt: 'We derive thresholdless pruning rules for structured pruning and empirically demonstrate their automatic pruning capability.'
 date: 2024-06-03
-venue: 'arXiv'
+venue: 'NeurIPS 2024'
 paperurl: '[https://arxiv.org/abs/2406.01345](https://arxiv.org/abs/2406.01345)'
 bibtex: '@inproceedings{wright2024bmrs,
       title={BMRS: Bayesian Model Reduction for Structured Pruning},
