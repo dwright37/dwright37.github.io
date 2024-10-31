@@ -8,3 +8,6 @@ main:
     
   - title: "Blog"
     url: /blog/
+
+  - title: "Job Market Material"
+    url: /job-market/
