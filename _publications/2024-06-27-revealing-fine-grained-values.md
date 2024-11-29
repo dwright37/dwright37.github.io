@@ -1,5 +1,5 @@
 ---
-title: "Revealing Fine-Grained Values and Opinions in Large Language Models"
+title: "LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models"
 authors: "<strong>Dustin Wright</strong>*, Arnav Arora*, Nadav Borenstein, Shrishti Yadav, Serge Belongie, and Isabelle Augenstein"
 collection: publications
 permalink: /publication/2024-07-02-revealing-fine-grained-values
@@ -8,7 +8,7 @@ date: 2024-06-27
 venue: 'EMNLP Findings'
 paperurl: 'https://arxiv.org/abs/2406.19238'
 bibtex: '@inproceedings{wright2024revealing,
-      title={Revealing Fine-Grained Values and Opinions in Large Language Models},
+      title={LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models},
       author={Wright, Dustin and Arora, Arnav and Borenstein, Nadav and Yadav, Srishti and Belongie, Serge and Augenstein, Isabelle},
       year={2024},
       booktitle = {Empirical Methods in Natural Language Processing (EMNLP) Findings}
@@ -23,7 +23,7 @@ Recommended bibtex:
 
 ```
 @inproceedings{wright2024revealing,
-      title={Revealing Fine-Grained Values and Opinions in Large Language Models},
+      title={LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models},
       author={Wright, Dustin and Arora, Arnav and Borenstein, Nadav and Yadav, Srishti and Belongie, Serge and Augenstein, Isabelle},
       year={2024},
       booktitle = {Empirical Methods in Natural Language Processing (EMNLP) Findings}
