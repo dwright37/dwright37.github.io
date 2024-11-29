@@ -8,4 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-Under construction (materials to be added)
+[CV](/files/CV.pdf)
+
+[Research Plan](/files/Research_Plan.pdf)
+
+[Teaching Statement](/files/Teaching_Statement.pdf)
