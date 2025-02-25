@@ -4,7 +4,7 @@ authors: "Kevin Roitero, <strong>Dustin Wright</strong>, Michael Soprano, Isabel
 collection: publications
 permalink: /publication/2025-01-30-cost-effective-truthfulness-assessments
 excerpt: 'We demonstrate that summaries of webpages shown to crowdworkers can be used to effecient and effective fact-checking.'
-date: 2025-30-01
+date: 2025-01-30
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2501.18265'
 bibtex: '@misc{roitero2025collectingcosteffectivehighqualitytruthfulness,
