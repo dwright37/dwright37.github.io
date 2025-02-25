@@ -4,7 +4,7 @@ authors: "<strong>Dustin Wright</strong>, Zain Muhammad Mujahid, Lu Wang, Isabel
 collection: publications
 permalink: /publication/2025-20-02-unstructured-evidence-sunset
 excerpt: 'We propose the task of unstructured evidence attribution for long context query focused summarization and generate a synthetic dataset (SUnsET) to improve model performance on it.'
-date: 2025-20-02
+date: 2025-02-20
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2502.14409'
 bibtex: '@misc{wright2025unstructuredevidenceattributionlong,
