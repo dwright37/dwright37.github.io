@@ -7,13 +7,13 @@ excerpt: 'We present a perspective on why efficiency will not make AI sustainabl
 date: 2024-07-03
 venue: 'To appear in Communications of the ACM'
 paperurl: 'https://arxiv.org/abs/2309.02065'
-bibtex: '@article{wright2024efficiency,
+bibtex: '@article{wright2025efficiency,
       title={ {Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI} },
       author={Wright, Dustin and Igel, Christian and Samuel, Gabrielle and Selvan, Raghavendra},
-      year={2024},
+      year={2025},
       booktitle = {Communications of the ACM},
       publisher = {Association for Computing Machinery},
-      year = 2024
+      year = 2025
 }'
 featured: true
 ---
@@ -24,12 +24,12 @@ Artificial Intelligence (AI) is currently spearheaded by machine learning (ML) m
 Recommended bibtex: 
 
 ```
-@article{wright2024efficiency,
+@article{wright2025efficiency,
       title={ {Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI} },
       author={Wright, Dustin and Igel, Christian and Samuel, Gabrielle and Selvan, Raghavendra},
-      year={2024},
+      year={2025},
       booktitle = {Communications of the ACM},
       publisher = {Association for Computing Machinery},
-      year = 2024
+      year = 2025
 }
 ```
