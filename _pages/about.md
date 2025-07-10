@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**I'm on the academic and industry research job market! Please reach out if you know of opportunities.**
+I'm currently a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen. My research
+centers around socially sustainable natural language processing (NLP) with the following mission: I want to help make the world's knowledge **reliable** and **accessible**. This includes [real-world knowledge](https://aclanthology.org/2020.emnlp-main.256/), [scientific knowledge](https://aclanthology.org/2022.emnlp-main.117.pdf), and [diverse human knowledge](https://aclanthology.org/2020.emnlp-main.639/). The methods I use come from machine learning and natural language processing. **Reliability** is concerned with the [factuality](https://aclanthology.org/2022.acl-long.175/) and [faithfulness](https://arxiv.org/abs/2402.12431) of different types of knowledge, as well as ensuring that ML systems themselves are [safe and interpretable](https://arxiv.org/abs/2406.19238). **Accessibility** is concerned with making ML systems which process different types of knowledge both [efficient](https://arxiv.org/abs/2406.01345) and [sustainable](https://arxiv.org/abs/2309.02065).
 
-I'm currently a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen. My research centers around the following mission: I want to make the world's knowledge **reliable** and **accessible**. This includes [real-world knowledge](https://aclanthology.org/2020.emnlp-main.256/), [scientific knowledge](https://aclanthology.org/2022.emnlp-main.117.pdf), and [diverse human knowledge](https://aclanthology.org/2020.emnlp-main.639/). The methods I use come from machine learning and natural language processing. **Reliability** is concerned with the [factuality](https://aclanthology.org/2022.acl-long.175/) and [faithfulness](https://arxiv.org/abs/2402.12431) of different types of knowledge, as well as ensuring that ML systems themselves are [safe and interpretable](https://arxiv.org/abs/2406.19238). **Accessibility** is concerned with making ML systems which process different types of knowledge both [efficient](https://arxiv.org/abs/2406.01345) and [sustainable](https://arxiv.org/abs/2309.02065).
-
-Previously I have been a visitor to the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan, and was a postdoc in the [Saints Lab](https://github.com/saintslab) working on sustainable AI. I and did my PhD with [CopeNLU](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing table top role-playing games and rhythm games.
+Previously I have been a visitor to the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan, and was a postdoc in the [Saints Lab](https://github.com/saintslab) working on sustainable AI. I did my PhD with [CopeNLU](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing table top role-playing games and rhythm games.
 
 Featured Publications
 ========
@@ -31,9 +30,25 @@ Press
 
 News
 ========
+- (23/06/2025) Gave a keynote at the ICWSM workshop on Misinformation title *The Many Faces of Science Misinformation*
+
+- (23/06/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at ICWSM 2025
+
+- (01/06/2025) I was awarded a 1.7M DKK Carlsberg Internationalization Postdoctoral Fellowship!
+
+- (01/05/2025) Our paper "[Efficiency and Effectiveness of LLM-Based Summarization of Evidence in Crowdsourced Fact-Checking](https://arxiv.org/abs/2501.18265) was accepted to SIGIR!
+
+- (25/04/2025) Gave an invited talk at the Pioneer Center for AI in Copenhagen titled *Revealing Political Opinions in Large Language Models*
+
+- (07/04/2025) Gave a research seminar at University of Minnesota titled *Socially Sustainable NLP*
+
+- (19/11/2024) Gave a DIKU Bits talk at University of Copenhagen titled *LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models*
+
 - (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
 
 - (20/09/2024) Our paper [Revealing Fine-Grained Values and Opinions in Large Language Models](https://dustinbwright.com/publication/2024-07-02-revealing-fine-grained-values) was accepted to EMNLP Findings!
+
+- (09/08/2024) Gave a talk at University of Michigan titled *Revealing Fine-Grained Values and Opinions in Large Language Models*
 
 - (03/07/2024) Our paper [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065) was accepted to [Communications of the ACM](https://cacm.acm.org/)!
 
