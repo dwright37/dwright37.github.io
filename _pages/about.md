@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm currently a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen. My research
-centers around socially sustainable natural language processing (NLP) with the following mission: I want to help make the world's knowledge **reliable** and **accessible**. This includes [real-world knowledge](https://aclanthology.org/2020.emnlp-main.256/), [scientific knowledge](https://aclanthology.org/2022.emnlp-main.117.pdf), and [diverse human knowledge](https://aclanthology.org/2020.emnlp-main.639/). The methods I use come from machine learning and natural language processing. **Reliability** is concerned with the [factuality](https://aclanthology.org/2022.acl-long.175/) and [faithfulness](https://arxiv.org/abs/2402.12431) of different types of knowledge, as well as ensuring that ML systems themselves are [safe and interpretable](https://arxiv.org/abs/2406.19238). **Accessibility** is concerned with making ML systems which process different types of knowledge both [efficient](https://arxiv.org/abs/2406.01345) and [sustainable](https://arxiv.org/abs/2309.02065).
+centers around socially sustainable natural language processing (NLP) with the following mission: I want to help make the world's knowledge **reliable** and **accessible**. This includes both [real-world knowledge](https://aclanthology.org/2020.emnlp-main.256/) and [scientific knowledge](https://aclanthology.org/2022.emnlp-main.117.pdf), with additional focus on [knowledge diversity](https://aclanthology.org/2020.emnlp-main.639/). The methods I use come from machine learning and natural language processing. **Reliability** is concerned with the [factuality](https://aclanthology.org/2022.acl-long.175/) and [faithfulness](https://arxiv.org/abs/2402.12431) of different types of knowledge, as well as ensuring that ML systems themselves are [safe and interpretable](https://arxiv.org/abs/2406.19238). **Accessibility** is concerned with making ML systems which process different types of knowledge both [efficient](https://arxiv.org/abs/2406.01345) and [sustainable](https://arxiv.org/abs/2309.02065).
 
 Previously I have been a visitor to the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan, and was a postdoc in the [Saints Lab](https://github.com/saintslab) working on sustainable AI. I did my PhD with [CopeNLU](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing table top role-playing games and rhythm games.
 
@@ -30,7 +30,7 @@ Press
 
 News
 ========
-- (23/06/2025) Gave a keynote at the ICWSM workshop on Misinformation title *The Many Faces of Science Misinformation*
+- (23/06/2025) Gave a keynote at the ICWSM workshop on Misinformation titled *The Many Faces of Science Misinformation*
 
 - (23/06/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at ICWSM 2025
 
