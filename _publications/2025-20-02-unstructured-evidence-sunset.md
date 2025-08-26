@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2025-20-02-unstructured-evidence-sunset
 excerpt: 'We propose the task of unstructured evidence attribution for long context query focused summarization and generate a synthetic dataset (SUnsET) to improve model performance on it.'
 date: 2025-08-20
-venue: 'arXiv'
+venue: 'EMNLP 2025'
 paperurl: 'https://arxiv.org/abs/2502.14409'
 bibtex: '@inproceedings{wright2025unstructuredevidenceattributionlong,
       title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
