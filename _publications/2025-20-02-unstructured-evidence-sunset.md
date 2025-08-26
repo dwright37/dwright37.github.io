@@ -4,17 +4,14 @@ authors: "<strong>Dustin Wright</strong>, Zain Muhammad Mujahid, Lu Wang, Isabel
 collection: publications
 permalink: /publication/2025-20-02-unstructured-evidence-sunset
 excerpt: 'We propose the task of unstructured evidence attribution for long context query focused summarization and generate a synthetic dataset (SUnsET) to improve model performance on it.'
-date: 2025-02-20
+date: 2025-08-20
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2502.14409'
-bibtex: '@misc{wright2025unstructuredevidenceattributionlong,
+bibtex: '@inproceedings{wright2025unstructuredevidenceattributionlong,
       title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
       author={Dustin Wright and Zain Muhammad Mujahid and Lu Wang and Isabelle Augenstein and David Jurgens},
       year={2025},
-      eprint={2502.14409},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.14409},
+      booktitle = {Empirical Methods in Natural Language Processing (EMNLP)}
 }'
 featured: true
 ---
@@ -28,13 +25,10 @@ Large language models (LLMs) are capable of generating coherent summaries from v
 Recommended bibtex: 
 
 ```
-@misc{wright2025unstructuredevidenceattributionlong,
+@inproceedings{wright2025unstructuredevidenceattributionlong,
       title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
       author={Dustin Wright and Zain Muhammad Mujahid and Lu Wang and Isabelle Augenstein and David Jurgens},
       year={2025},
-      eprint={2502.14409},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.14409},
+      booktitle = {Empirical Methods in Natural Language Processing (EMNLP)}
 }
 ```
