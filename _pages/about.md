@@ -30,6 +30,10 @@ Press
 
 News
 ========
+- (20/08/2025) Our paper "Unstructured Evidence Attribution for Long Context Query Focused Summarization" was accepted to EMNLP 2025 (Main)!
+
+- (21/07/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at IC2S2 2025 in Norreköping
+
 - (23/06/2025) Gave a keynote at the ICWSM workshop on Misinformation titled *The Many Faces of Science Misinformation*
 
 - (23/06/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at ICWSM 2025
