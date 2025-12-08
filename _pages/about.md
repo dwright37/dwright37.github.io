@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen. My research
-centers around socially sustainable natural language processing (NLP) with the following mission: I want to help make the world's knowledge **reliable** and **accessible**. This includes both [real-world knowledge](https://aclanthology.org/2020.emnlp-main.256/) and [scientific knowledge](https://aclanthology.org/2022.emnlp-main.117.pdf), with additional focus on [knowledge diversity](https://aclanthology.org/2020.emnlp-main.639/). The methods I use come from machine learning and natural language processing. **Reliability** is concerned with the [factuality](https://aclanthology.org/2022.acl-long.175/) and [faithfulness](https://arxiv.org/abs/2402.12431) of different types of knowledge, as well as ensuring that ML systems themselves are [safe and interpretable](https://arxiv.org/abs/2406.19238). **Accessibility** is concerned with making ML systems which process different types of knowledge both [efficient](https://arxiv.org/abs/2406.01345) and [sustainable](https://arxiv.org/abs/2309.02065).
-
-Previously I have been a visitor to the [BlaBlaBlab](https://blablablab.si.umich.edu/) at the University of Michigan, and was a postdoc in the [Saints Lab](https://github.com/saintslab) working on sustainable AI. I did my PhD with [CopeNLU](https://copenlu.github.io/) where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master's degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on [substack](https://dustinwright.substack.com/). Outside of science I like making music and playing table top role-playing games and rhythm games.
+I'm a Tenure Track Assistant Professor at Aalborg University Copenhagen from Feb 1, 2026. My research centers around reliable and sustainable AI. Core to my work is understanding when and how can NLP systems make the world's information reliable and accessible, while mitigating the environmental and social risks these systems can bring. This includes the factuality, faithfulness, and diversity of information these systems produce, as well as the efficiency with which they can produce them. The methods I use come from machine learning and natural language processing. Previously I was a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen, was a visitor to the BlaBlaBlab at the University of Michigan, and was a postdoc in the Saints Lab working on sustainable AI. I did my PhD at the University of Copenhagen in the CopeNLU lab where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master’s degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on substack. Outside of science I like making music and playing table top role-playing games and rhythm games.
 
 Featured Publications
 ========
@@ -30,6 +27,8 @@ Press
 
 News
 ========
+- (01/09/2025) I'll be starting as a Tenure Track Assistant Professor at Aalborg University Copenhagen from Februrary 2026!
+
 - (20/08/2025) Our paper "Unstructured Evidence Attribution for Long Context Query Focused Summarization" was accepted to EMNLP 2025 (Main)!
 
 - (21/07/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at IC2S2 2025 in Norreköping
