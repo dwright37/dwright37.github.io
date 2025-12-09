@@ -10,6 +10,13 @@ redirect_from:
 
 I'm a Tenure Track Assistant Professor at Aalborg University Copenhagen from Feb 1, 2026. My research centers around reliable and sustainable AI. Core to my work is understanding when and how can NLP systems make the world's information reliable and accessible, while mitigating the environmental and social risks these systems can bring. This includes the factuality, faithfulness, and diversity of information these systems produce, as well as the efficiency with which they can produce them. The methods I use come from machine learning and natural language processing. Previously I was a Danish Data Science Academy postdoctoral fellow at the University of Copenhagen, was a visitor to the BlaBlaBlab at the University of Michigan, and was a postdoc in the Saints Lab working on sustainable AI. I did my PhD at the University of Copenhagen in the CopeNLU lab where I worked on automated fact checking, automatic understanding and analysis of science communication, and domain adaptation. I received my master’s degree from University of California, San Diego, and have worked at IBM Research and the Allen Institute for Artificial Intelligence on the Semantic Scholar project. I also write sometimes on substack. Outside of science I like making music and playing table top role-playing games and rhythm games.
 
+Open Positions
+========
+Prospective lab members (PhD students and Postdocs) should fill out the following form to express their interest in working with me: [Interest form](https://docs.google.com/forms/d/e/1FAIpQLSftEjYza0d6Mqbj-BDA85PthwNIvZgUtONZ-AXRSXm-AxGcaw/viewform?usp=header)
+
+- [DDSA Open PhD Fellowship 2026](https://ddsa.dk/fellowships/phdfellowshipcall2026/) (deadline: March 4, 2026): Open PhD fellowships on any topic relevant to the lab
+- [DARA Open PhD Fellowship Winter 2026](https://dara.grantplatform.com/page/LxOYWaWy) (deadline: February 20, 2026): Open PhD fellowships on any topic relevant to the lab
+
 Featured Publications
 ========
 {% for post in site.publications reversed %}
