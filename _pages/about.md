@@ -23,7 +23,7 @@ Recent News
 ========
 - (01/09/2025) I'll be starting as a Tenure Track Assistant Professor at Aalborg University Copenhagen from Februrary 2026!
 
-- (20/08/2025) Our paper "Unstructured Evidence Attribution for Long Context Query Focused Summarization" was accepted to EMNLP 2025 (Main)!
+- (20/08/2025) Our paper ["Unstructured Evidence Attribution for Long Context Query Focused Summarization"](https://aclanthology.org/2025.emnlp-main.95/) was accepted to EMNLP 2025 (Main)!
 
 - (21/07/2025) Co-led the tutorial *Addressing AI Driven Misinformation* at IC2S2 2025 in Norreköping
 
