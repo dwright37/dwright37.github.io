@@ -53,7 +53,7 @@ News
 - (25/04/2025) Gave an invited talk at the Pioneer Center for AI in Copenhagen titled *Revealing Political Opinions in Large Language Models*
 
 - (07/04/2025) Gave a research seminar at University of Minnesota titled *Socially Sustainable NLP*
-
+<!--
 - (19/11/2024) Gave a DIKU Bits talk at University of Copenhagen titled *LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models*
 
 - (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
@@ -101,3 +101,4 @@ News
 - (05/03/2020) Preprint of our work on claim check-worthiness detection (w/ [Isabelle Augenstein](https://isabelleaugenstein.github.io/)) is now available: [https://arxiv.org/pdf/2003.02736.pdf](https://arxiv.org/pdf/2003.02736.pdf)
 
 - (01/10/2019) Started my PhD in natural language processing and machine learning at the University of Copenhagen
+-->
