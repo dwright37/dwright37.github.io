@@ -19,22 +19,7 @@ Prospective lab members (PhD students and Postdocs) should fill out the followin
 - [DDSA Open PhD Fellowship 2026](https://ddsa.dk/fellowships/phdfellowshipcall2026/) (deadline: March 4, 2026): Open PhD fellowships on any topic relevant to the lab
 - [DARA Open PhD Fellowship Winter 2026](https://dara.grantplatform.com/page/LxOYWaWy) (deadline: February 20, 2026): Open PhD fellowships on any topic relevant to the lab
 
-Featured Publications
-========
-{% for post in site.publications reversed %}
-  {% if post.featured %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-Press
-=====
-- [Feature on Montreal AI Ethics Blog](https://montrealethics.ai/efficiency-is-not-enough-a-critical-perspective-of-environmentally-sustainable-ai/)
-- [Interview on the NVIDIA AI podcast](https://open.spotify.com/episode/16YohQJTOo0BDS9WtPRaOC?si=214e837b07dd414b)
-- [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
-- [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
-
-News
+Recent News
 ========
 - (01/09/2025) I'll be starting as a Tenure Track Assistant Professor at Aalborg University Copenhagen from Februrary 2026!
 
@@ -53,7 +38,8 @@ News
 - (25/04/2025) Gave an invited talk at the Pioneer Center for AI in Copenhagen titled *Revealing Political Opinions in Large Language Models*
 
 - (07/04/2025) Gave a research seminar at University of Minnesota titled *Socially Sustainable NLP*
-<!--
+  
+<!-- Everything here is old news
 - (19/11/2024) Gave a DIKU Bits talk at University of Copenhagen titled *LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models*
 
 - (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
@@ -102,3 +88,19 @@ News
 
 - (01/10/2019) Started my PhD in natural language processing and machine learning at the University of Copenhagen
 -->
+
+
+Featured Publications
+========
+{% for post in site.publications reversed %}
+  {% if post.featured %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Press
+=====
+- [Feature on Montreal AI Ethics Blog](https://montrealethics.ai/efficiency-is-not-enough-a-critical-perspective-of-environmentally-sustainable-ai/)
+- [Interview on the NVIDIA AI podcast](https://open.spotify.com/episode/16YohQJTOo0BDS9WtPRaOC?si=214e837b07dd414b)
+- [Exaggeration Detector Could Lead to More Accurate Health Science Journalism](https://blogs.nvidia.com/blog/2021/10/01/exaggeration-detector/) (NVIDIA blog)
+- [An NLP Approach to Exaggeration Detection in Science Journalism](https://www.unite.ai/an-nlp-approach-to-exaggeration-detection-in-science-journalism/) (unite.ai)
