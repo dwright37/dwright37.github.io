@@ -2,9 +2,9 @@
 title: "Epistemic Diversity and Knowledge Collapse in Large Language Models"
 authors: "<strong>Dustin Wright</strong>, Sarah Masud, Jared Moore, Srishti Yadav, Maria Antoniak, Peter Ebert Christensen, Chan Young Park, Isabelle Augenstein"
 collection: publications
-permalink: /publication/2025-10-01-epistemic-diversity
+permalink: /publication/2025-01-10-epistemic-diversity
 excerpt: 'We assess the risk of knowledge collapse with LLMs by measuring epistemic diversity across 27 models in multiple settings.'
-date: 2025-10-01
+date: 2025-01-10
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2510.04226'
 bibtex: '@article{wright2025epistemic,
