@@ -16,11 +16,11 @@ Open Positions
 ========
 Prospective lab members (PhD students and Postdocs) should fill out the following form to express their interest in working with me: [Interest form](https://docs.google.com/forms/d/e/1FAIpQLSftEjYza0d6Mqbj-BDA85PthwNIvZgUtONZ-AXRSXm-AxGcaw/viewform?usp=header)
 
-- [DDSA Open PhD Fellowship 2026](https://ddsa.dk/fellowships/phdfellowshipcall2026/) (deadline: March 4, 2026): Open PhD fellowships on any topic relevant to the lab
-- [DARA Open PhD Fellowship Winter 2026](https://dara.grantplatform.com/page/LxOYWaWy) (deadline: February 20, 2026): Open PhD fellowships on any topic relevant to the lab
 
 Recent News
 ========
+- (02/02/2025) I've started as a Tenure Track Assistant Professor at Aalborg University Copenhagen!
+
 - (01/09/2025) I'll be starting as a Tenure Track Assistant Professor at Aalborg University Copenhagen from Februrary 2026!
 
 - (20/08/2025) Our paper ["Unstructured Evidence Attribution for Long Context Query Focused Summarization"](https://aclanthology.org/2025.emnlp-main.95/) was accepted to EMNLP 2025 (Main)!
@@ -36,10 +36,11 @@ Recent News
 - (01/05/2025) Our paper "[Efficiency and Effectiveness of LLM-Based Summarization of Evidence in Crowdsourced Fact-Checking](https://arxiv.org/abs/2501.18265) was accepted to SIGIR!
 
 - (25/04/2025) Gave an invited talk at the Pioneer Center for AI in Copenhagen titled *Revealing Political Opinions in Large Language Models*
-
-- (07/04/2025) Gave a research seminar at University of Minnesota titled *Socially Sustainable NLP*
   
 <!-- Everything here is old news
+
+- (07/04/2025) Gave a research seminar at University of Minnesota titled *Socially Sustainable NLP*
+
 - (19/11/2024) Gave a DIKU Bits talk at University of Copenhagen titled *LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models*
 
 - (26/09/2024) Our paper [BMRS: Bayesian Model Reduction for Structured Pruning](https://dustinbwright.com/publication/2024-06-03-bmrs-bayesian-model-reduction) was accepted to NeurIPS as a spotlight paper!
