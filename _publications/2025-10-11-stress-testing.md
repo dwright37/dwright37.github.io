@@ -2,9 +2,9 @@
 title: "Stress Testing Factual Consistency Metrics for Long-Document Summarization"
 authors: "Zain Muhammad Mujahid, <strong>Dustin Wright</strong>, Isabelle Augenstein"
 collection: publications
-permalink: /publication/2025-11-10-stress-testing
+permalink: /publication/2025-10-11-stress-testing
 excerpt: 'We demonstrate that factuality metrics are brittle for evaluating query focused long document summarization.'
-date: 2025-11-010
+date: 2025-11-10
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2511.07689'
 bibtex: '@article{mujahid2025stress,
